@@ -1,3 +1,7 @@
-.ui-content p{
-    font-size:2em;
+.link{
+    display:block;
+}
+
+.ui-input-text, .ui-input-search{
+    max-width:40%;
 }
